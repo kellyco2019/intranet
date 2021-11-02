@@ -5,7 +5,7 @@ module.exports = {
     extend: {},
   },
   variants: {
-    extend: {},
+    extend: { textColor: ['responsive', 'hover', 'focus', 'group-hover', 'group-focus'],},
   },
   plugins: [require('@tailwindcss/forms'),],
 }
