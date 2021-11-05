@@ -6,7 +6,7 @@ import axios from "axios"
 function Dashboard() {
     return (
         <div className="relative min-h-screen flex bg-gray-100 ">
-           <div className="bg-gray-900 text-white w-60">1</div>
+           <div className="bg-gray-900 text-white w-60">MENÚ</div>
            <div className="flex-1">
                <div className="h-52 mx-1 border-b-2 border-red-500"></div>
                 <div class=" grid grid-cols-7 my-8 text-center justify-center items-center flex-wrap content-center ">

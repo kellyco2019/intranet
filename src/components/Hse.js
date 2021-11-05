@@ -8,7 +8,7 @@ import{Link} from "react-router-dom"
 function Hse() {
     return (
         <div className="relative min-h-screen flex bg-gray-100 ">
-           <div className="bg-gray-900 text-white w-60">177777</div>
+           <div className="bg-gray-900 text-white w-60">MENÚ</div>
            <div className="flex-1">
                 <div className="flex items-end justify-start h-23 text-xs pl-5 ml-1 border-b-2 border-red-500">
                     <Link className="flex items-end focus:bg-red-500 focus:text-white h-24 px-3 mb-1" to="/">Formatos HSE</Link>
